@@ -1,0 +1,52 @@
+
+body{
+    width: fit-content;
+}
+
+    form{
+      background-color: rgb(53, 86, 140);
+      display: flex;
+
+    }
+    
+
+    legend {
+        color:rgb(66, 67, 64);
+    }
+
+    input {
+        color: rgb(137, 116, 21);
+
+    }
+
+    label {
+        color: whitesmoke;   
+        margin: 15px;
+        width: 100px;
+        display: inline-block;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    label1 {
+        color: whitesmoke;   
+        margin: 2px;
+        
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+
+    class {
+        color: rgb(217, 224, 245);
+    }
+
+    option {
+        color: darkgoldenrod;
+    }
+
+    body {
+        margin: 20px solid rgb(rgb(95, 26, 26), green, blue);
+        padding-left: 300px;
+        padding-right: 250px;
+        padding-top: 100px;
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf1xQECrV5_YEq0t1lptZpNpD3Rgc_Po9MgBXSmwQnrQQ8hN-V78iqhUNlkZIVMNSTfco&usqp=CAU);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
